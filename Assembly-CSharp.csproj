@@ -80,6 +80,7 @@
     <Compile Include="Assets\Common\Scripts\SceneOrientation.cs" />
     <Compile Include="Assets\Common\Scripts\TapHandler.cs" />
     <Compile Include="Assets\Common\Scripts\TrackableSettings.cs" />
+    <Compile Include="Assets\pointButton.cs" />
     <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Astronaut.cs" />
     <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Augmentation.cs" />
     <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Drone.cs" />
@@ -115,6 +116,8 @@
     <Compile Include="Assets\SamplesResources\VuforiaSamplesUI\Scripts\SamplesMainMenu.cs" />
     <Compile Include="Assets\SamplesResources\VuforiaSamplesUI\Scripts\SamplesNavigationHandler.cs" />
     <Compile Include="Assets\Scripts\fixPanel.cs" />
+    <Compile Include="Assets\Scripts\gameController.cs" />
+    <Compile Include="Assets\Scripts\spawnerScript.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\SamplesResources\SceneAssets\VirtualButtons\Shaders\Gradient.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
