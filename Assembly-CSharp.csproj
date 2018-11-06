@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\collectorScript.cs" />
     <Compile Include="Assets\Common\Scripts\AboutManager.cs" />
     <Compile Include="Assets\Common\Scripts\AboutScreen.cs" />
     <Compile Include="Assets\Common\Scripts\AboutScreenInfo.cs" />
