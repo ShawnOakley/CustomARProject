@@ -42,7 +42,7 @@ public class spawnerScript : MonoBehaviour {
 		myScore.text = (int.Parse(myScore.text) + theScore).ToString();
 		removeKids ();
 	}
-
+  // removes child elemets
 	private void removeKids(){
 		foreach(Transform child in transform) {
 			Destroy (child.gameObject);
